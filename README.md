@@ -5,7 +5,7 @@ Bu repo [Kodluyoruz](http//kodluyoruz.org) Front-End Egitiminde olusturdugumuz i
 # Installation
 Oncelikle projeyi clonelayin. (Buraya sizin reponuzdan aldiginiz link gelecek)
 `git clone https://github.com/Fazilabi/kodluyoruzilkrepo.git`
-
+![kodluyoruzIlkRepo](/src/img.png)
 # Usage
 Projeyi cloneladiktan sonra Visual Studio Code programinda aciniz.
 Linux icin:
@@ -17,4 +17,3 @@ code
 Pull requestler kabul edilir. Buyuk degisiklikler icin, lutfen once neyi degistirmek istediginizi tartismak icin bir konu aciniz.
 # License 
 [MIT](https://opensource.org/licenses/MIT)
-![kodluyoruzIlkRepo](/src/img.png)
