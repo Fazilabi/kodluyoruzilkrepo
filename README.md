@@ -17,3 +17,4 @@ code
 Pull requestler kabul edilir. Buyuk degisiklikler icin, lutfen once neyi degistirmek istediginizi tartismak icin bir konu aciniz.
 # License 
 [MIT](https://opensource.org/licenses/MIT)
+![kodluyoruzIlkRepo](/src/img.png)
